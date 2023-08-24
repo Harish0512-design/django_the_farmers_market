@@ -1,0 +1,5 @@
+.idea
+db.sqbpro
+tfm1/__pycache__/
+product/__pycache__/
+product/migrations/
